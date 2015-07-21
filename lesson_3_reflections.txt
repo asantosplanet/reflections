@@ -12,3 +12,6 @@ You can continue the work on the local branch and you are quickly updated
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would collaborate using Dropbox and it would be harder because it doesn't have all tools to make pull requests and to interact with more people so easily. The only thing that would be easier is you don't have to learn commands to update the code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I want to make changes in a separate branch for example if someone has to check the code before adding it to the master branch. The first benefit is that you both can change that simultaneously and adding aclarations before merging into master branch.
