@@ -9,3 +9,6 @@ Forks are clones of other authors' repositories and they only exist in GitHub. C
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can continue the work on the local branch and you are quickly updated
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would collaborate using Dropbox and it would be harder because it doesn't have all tools to make pull requests and to interact with more people so easily. The only thing that would be easier is you don't have to learn commands to update the code.
